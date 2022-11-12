@@ -1,5 +1,4 @@
-children = [
-  {
+{
     "SegmentRangeID":1,
     "SegmentID":1,
     "Start":0.0,
@@ -920,4 +919,3 @@ children = [
     },
     "SearchDuration":0.0
   }
-]
