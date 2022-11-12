@@ -1,0 +1,923 @@
+children = [
+  {
+    "SegmentRangeID":1,
+    "SegmentID":1,
+    "Start":0.0,
+    "End":326.9,
+    "# Interactions":19,
+    "# Documents Opened":2,
+    "Opened Documents":[
+      "Armsdealing 68",
+      "Armsdealing 72"
+    ],
+    "OpenDuration":394.2,
+    "# Documents Read":2,
+    "Read Documents":[
+      "Armsdealing 68"
+    ],
+    "ReadDuration":53.3,
+    "# Documents Dragged":12,
+    "Dragged Documents":[
+      "Armsdealing 101",
+      "Armsdealing 102",
+      "Armsdealing 24",
+      "Armsdealing 26",
+      "Armsdealing 68",
+      "Armsdealing 69",
+      "Armsdealing 72"
+    ],
+    "DraggingDuration":33.3,
+    "Most Read Document":"Armsdealing 68",
+    "# Highlighted":1,
+    "Highlighted Words":[
+      "Nigeria in February of 2009"
+    ],
+    "HighlightingDuration":1.0,
+    "# Searched":2,
+    "Searched Words":{
+      "arms":1,
+      "Nigeria":1
+    },
+    "SearchDuration":2.0
+  },
+  {
+    "SegmentRangeID":1,
+    "SegmentID":2,
+    "Start":326.9,
+    "End":467.1,
+    "# Interactions":43,
+    "# Documents Opened":2,
+    "Opened Documents":[
+      "Armsdealing 65",
+      "Armsdealing 69"
+    ],
+    "OpenDuration":1459.5,
+    "# Documents Read":35,
+    "Read Documents":[
+      "Armsdealing 65",
+      "Armsdealing 72"
+    ],
+    "ReadDuration":88.2,
+    "# Documents Dragged":5,
+    "Dragged Documents":[
+      "Armsdealing 65",
+      "Armsdealing 69",
+      "Armsdealing 72"
+    ],
+    "DraggingDuration":4.7,
+    "Most Read Document":"Armsdealing 72",
+    "# Highlighted":0,
+    "Highlighted Words":[
+
+    ],
+    "HighlightingDuration":0.0,
+    "# Searched":1,
+    "Searched Words":{
+      "Minsky":1
+    },
+    "SearchDuration":1.0
+  },
+  {
+    "SegmentRangeID":1,
+    "SegmentID":3,
+    "Start":467.1,
+    "End":717.2,
+    "# Interactions":43,
+    "# Documents Opened":3,
+    "Opened Documents":[
+      "Armsdealing 4",
+      "Armsdealing 6",
+      "Armsdealing 79"
+    ],
+    "OpenDuration":16.6,
+    "# Documents Read":34,
+    "Read Documents":[
+      "Armsdealing 65",
+      "Armsdealing 69",
+      "Armsdealing 72"
+    ],
+    "ReadDuration":107.0,
+    "# Documents Dragged":2,
+    "Dragged Documents":[
+      "Armsdealing 69",
+      "Armsdealing 72"
+    ],
+    "DraggingDuration":2.7,
+    "Most Read Document":"Armsdealing 69",
+    "# Highlighted":3,
+    "Highlighted Words":[
+      " Leonid Minsky",
+      "gun shipments to Yemen",
+      "Nigeria"
+    ],
+    "HighlightingDuration":3.0,
+    "# Searched":1,
+    "Searched Words":{
+      "Nigeria":1
+    },
+    "SearchDuration":1.0
+  },
+  {
+    "SegmentRangeID":1,
+    "SegmentID":4,
+    "Start":717.2,
+    "End":734.4,
+    "# Interactions":1,
+    "# Documents Opened":1,
+    "Opened Documents":[
+      "Armsdealing 84"
+    ],
+    "OpenDuration":114.2,
+    "# Documents Read":0,
+    "Read Documents":[
+
+    ],
+    "ReadDuration":0.0,
+    "# Documents Dragged":0,
+    "Dragged Documents":[
+
+    ],
+    "DraggingDuration":0.0,
+    "Most Read Document":"NA",
+    "# Highlighted":0,
+    "Highlighted Words":[
+
+    ],
+    "HighlightingDuration":0.0,
+    "# Searched":0,
+    "Searched Words":{
+
+    },
+    "SearchDuration":0.0
+  },
+  {
+    "SegmentRangeID":1,
+    "SegmentID":5,
+    "Start":734.4,
+    "End":1542.5,
+    "# Interactions":59,
+    "# Documents Opened":4,
+    "Opened Documents":[
+      "Armsdealing 81",
+      "Armsdealing 85"
+    ],
+    "OpenDuration":480.9,
+    "# Documents Read":37,
+    "Read Documents":[
+      "Armsdealing 69",
+      "Armsdealing 81",
+      "Armsdealing 84",
+      "Armsdealing 85"
+    ],
+    "ReadDuration":339.7,
+    "# Documents Dragged":16,
+    "Dragged Documents":[
+      "Armsdealing 72",
+      "Armsdealing 81",
+      "Armsdealing 85"
+    ],
+    "DraggingDuration":35.0,
+    "Most Read Document":"Armsdealing 81",
+    "# Highlighted":2,
+    "Highlighted Words":[
+      " THE ENTIRE FUNDS TRANSFER WOULD STILL BE IN ITS FETUS STAGE.",
+      "TO DO THIS IT BECOMES ABSOLUTELY NECESSARY FOR US TO OFFICIALISE THE FUNDS TRANSFER PROCESS MAKING IT TAKE THE SEMBLANCE OF AN ACTUAL CONTRACT PAYMENT."
+    ],
+    "HighlightingDuration":2.0,
+    "# Searched":0,
+    "Searched Words":{
+
+    },
+    "SearchDuration":0.0
+  },
+  {
+    "SegmentRangeID":2,
+    "SegmentID":6,
+    "Start":1542.5,
+    "End":1809.4,
+    "# Interactions":27,
+    "# Documents Opened":4,
+    "Opened Documents":[
+      "Armsdealing 11",
+      "Armsdealing 34",
+      "Armsdealing 56",
+      "Armsdealing 60"
+    ],
+    "OpenDuration":48.0,
+    "# Documents Read":11,
+    "Read Documents":[
+      "Armsdealing 11",
+      "Armsdealing 56",
+      "Armsdealing 69"
+    ],
+    "ReadDuration":16.1,
+    "# Documents Dragged":10,
+    "Dragged Documents":[
+      "Armsdealing 27",
+      "Armsdealing 28",
+      "Armsdealing 29",
+      "Armsdealing 30",
+      "Armsdealing 4",
+      "Armsdealing 5",
+      "Armsdealing 6",
+      "Armsdealing 69",
+      "Armsdealing 72"
+    ],
+    "DraggingDuration":21.6,
+    "Most Read Document":"Armsdealing 69",
+    "# Highlighted":0,
+    "Highlighted Words":[
+
+    ],
+    "HighlightingDuration":0.0,
+    "# Searched":2,
+    "Searched Words":{
+      "2009":1,
+      "Iran":1
+    },
+    "SearchDuration":2.0
+  },
+  {
+    "SegmentRangeID":2,
+    "SegmentID":7,
+    "Start":1809.4,
+    "End":2146.9,
+    "# Interactions":61,
+    "# Documents Opened":8,
+    "Opened Documents":[
+      "Armsdealing 101",
+      "Armsdealing 102",
+      "Armsdealing 22",
+      "Armsdealing 30",
+      "Armsdealing 64",
+      "Armsdealing 68",
+      "Armsdealing 71"
+    ],
+    "OpenDuration":1086.6,
+    "# Documents Read":11,
+    "Read Documents":[
+      "Armsdealing 102",
+      "Armsdealing 30",
+      "Armsdealing 71"
+    ],
+    "ReadDuration":67.5,
+    "# Documents Dragged":39,
+    "Dragged Documents":[
+      "Armsdealing 101",
+      "Armsdealing 102",
+      "Armsdealing 22",
+      "Armsdealing 25",
+      "Armsdealing 28",
+      "Armsdealing 29",
+      "Armsdealing 30",
+      "Armsdealing 51",
+      "Armsdealing 52",
+      "Armsdealing 53",
+      "Armsdealing 54",
+      "Armsdealing 56",
+      "Armsdealing 65",
+      "Armsdealing 68",
+      "Armsdealing 69",
+      "Armsdealing 70",
+      "Armsdealing 71",
+      "Armsdealing 72",
+      "Armsdealing 77",
+      "Armsdealing 81",
+      "Armsdealing 84",
+      "Armsdealing 87",
+      "Armsdealing 88",
+      "Armsdealing 89",
+      "Armsdealing 90"
+    ],
+    "DraggingDuration":62.3,
+    "Most Read Document":"Armsdealing 71",
+    "# Highlighted":0,
+    "Highlighted Words":[
+
+    ],
+    "HighlightingDuration":0.0,
+    "# Searched":3,
+    "Searched Words":{
+      "2009":1,
+      "Kenya":1,
+      "Syria":1
+    },
+    "SearchDuration":3.0
+  },
+  {
+    "SegmentRangeID":2,
+    "SegmentID":8,
+    "Start":2146.9,
+    "End":2198.2,
+    "# Interactions":8,
+    "# Documents Opened":1,
+    "Opened Documents":[
+      "Armsdealing 17"
+    ],
+    "OpenDuration":13.3,
+    "# Documents Read":2,
+    "Read Documents":[
+      "Armsdealing 30"
+    ],
+    "ReadDuration":1.6,
+    "# Documents Dragged":4,
+    "Dragged Documents":[
+      "Armsdealing 17",
+      "Armsdealing 22"
+    ],
+    "DraggingDuration":5.1,
+    "Most Read Document":"Armsdealing 30",
+    "# Highlighted":0,
+    "Highlighted Words":[
+
+    ],
+    "HighlightingDuration":0.0,
+    "# Searched":1,
+    "Searched Words":{
+      "Lebanon":1
+    },
+    "SearchDuration":1.0
+  },
+  {
+    "SegmentRangeID":2,
+    "SegmentID":9,
+    "Start":2198.2,
+    "End":2225.2,
+    "# Interactions":2,
+    "# Documents Opened":1,
+    "Opened Documents":[
+      "Armsdealing 28"
+    ],
+    "OpenDuration":17.4,
+    "# Documents Read":0,
+    "Read Documents":[
+
+    ],
+    "ReadDuration":0.0,
+    "# Documents Dragged":1,
+    "Dragged Documents":[
+      "Armsdealing 28"
+    ],
+    "DraggingDuration":0.8,
+    "Most Read Document":"NA",
+    "# Highlighted":0,
+    "Highlighted Words":[
+
+    ],
+    "HighlightingDuration":0.0,
+    "# Searched":0,
+    "Searched Words":{
+
+    },
+    "SearchDuration":0.0
+  },
+  {
+    "SegmentRangeID":2,
+    "SegmentID":10,
+    "Start":2225.2,
+    "End":2569.1,
+    "# Interactions":45,
+    "# Documents Opened":4,
+    "Opened Documents":[
+      "Armsdealing 28",
+      "Armsdealing 56",
+      "Armsdealing 68",
+      "Armsdealing 70"
+    ],
+    "OpenDuration":674.2,
+    "# Documents Read":34,
+    "Read Documents":[
+      "Armsdealing 28",
+      "Armsdealing 30",
+      "Armsdealing 68",
+      "Armsdealing 71"
+    ],
+    "ReadDuration":54.6,
+    "# Documents Dragged":7,
+    "Dragged Documents":[
+      "Armsdealing 102",
+      "Armsdealing 28",
+      "Armsdealing 30",
+      "Armsdealing 56",
+      "Armsdealing 71"
+    ],
+    "DraggingDuration":7.4,
+    "Most Read Document":"Armsdealing 30",
+    "# Highlighted":0,
+    "Highlighted Words":[
+
+    ],
+    "HighlightingDuration":0.0,
+    "# Searched":0,
+    "Searched Words":{
+
+    },
+    "SearchDuration":0.0
+  },
+  {
+    "SegmentRangeID":3,
+    "SegmentID":11,
+    "Start":2569.1,
+    "End":2852.7,
+    "# Interactions":21,
+    "# Documents Opened":5,
+    "Opened Documents":[
+      "Armsdealing 52",
+      "Armsdealing 53",
+      "Armsdealing 54"
+    ],
+    "OpenDuration":121.5,
+    "# Documents Read":12,
+    "Read Documents":[
+      "Armsdealing 30",
+      "Armsdealing 52",
+      "Armsdealing 54",
+      "Armsdealing 70"
+    ],
+    "ReadDuration":83.5,
+    "# Documents Dragged":1,
+    "Dragged Documents":[
+      "Armsdealing 52"
+    ],
+    "DraggingDuration":1.0,
+    "Most Read Document":"Armsdealing 70",
+    "# Highlighted":0,
+    "Highlighted Words":[
+
+    ],
+    "HighlightingDuration":0.0,
+    "# Searched":3,
+    "Searched Words":{
+      "May 2009":1,
+      "Pakistan":1,
+      "Saudi Arabia,":1
+    },
+    "SearchDuration":3.0
+  },
+  {
+    "SegmentRangeID":3,
+    "SegmentID":12,
+    "Start":2852.7,
+    "End":2891.9,
+    "# Interactions":3,
+    "# Documents Opened":1,
+    "Opened Documents":[
+      "Armsdealing 96"
+    ],
+    "OpenDuration":11.4,
+    "# Documents Read":1,
+    "Read Documents":[
+      "Armsdealing 70"
+    ],
+    "ReadDuration":1.0,
+    "# Documents Dragged":0,
+    "Dragged Documents":[
+
+    ],
+    "DraggingDuration":0.0,
+    "Most Read Document":"Armsdealing 70",
+    "# Highlighted":0,
+    "Highlighted Words":[
+
+    ],
+    "HighlightingDuration":0.0,
+    "# Searched":1,
+    "Searched Words":{
+      "Saudi Arabia":1
+    },
+    "SearchDuration":1.0
+  },
+  {
+    "SegmentRangeID":3,
+    "SegmentID":13,
+    "Start":2891.9,
+    "End":2907.0,
+    "# Interactions":3,
+    "# Documents Opened":1,
+    "Opened Documents":[
+      "Armsdealing 63"
+    ],
+    "OpenDuration":77.9,
+    "# Documents Read":0,
+    "Read Documents":[
+
+    ],
+    "ReadDuration":0.0,
+    "# Documents Dragged":2,
+    "Dragged Documents":[
+      "Armsdealing 96"
+    ],
+    "DraggingDuration":4.3,
+    "Most Read Document":"NA",
+    "# Highlighted":0,
+    "Highlighted Words":[
+
+    ],
+    "HighlightingDuration":0.0,
+    "# Searched":0,
+    "Searched Words":{
+
+    },
+    "SearchDuration":0.0
+  },
+  {
+    "SegmentRangeID":3,
+    "SegmentID":14,
+    "Start":2907.0,
+    "End":2995.4,
+    "# Interactions":4,
+    "# Documents Opened":1,
+    "Opened Documents":[
+      "Armsdealing 6"
+    ],
+    "OpenDuration":21.9,
+    "# Documents Read":2,
+    "Read Documents":[
+      "Armsdealing 63"
+    ],
+    "ReadDuration":48.9,
+    "# Documents Dragged":0,
+    "Dragged Documents":[
+
+    ],
+    "DraggingDuration":0.0,
+    "Most Read Document":"Armsdealing 63",
+    "# Highlighted":0,
+    "Highlighted Words":[
+
+    ],
+    "HighlightingDuration":0.0,
+    "# Searched":1,
+    "Searched Words":{
+      "Venezuela":1
+    },
+    "SearchDuration":1.0
+  },
+  {
+    "SegmentRangeID":3,
+    "SegmentID":15,
+    "Start":2995.4,
+    "End":3093.4,
+    "# Interactions":9,
+    "# Documents Opened":4,
+    "Opened Documents":[
+      "Armsdealing 5",
+      "Armsdealing 88",
+      "Armsdealing 89",
+      "Armsdealing 90"
+    ],
+    "OpenDuration":689.5,
+    "# Documents Read":5,
+    "Read Documents":[
+      "Armsdealing 5"
+    ],
+    "ReadDuration":9.7,
+    "# Documents Dragged":0,
+    "Dragged Documents":[
+
+    ],
+    "DraggingDuration":0.0,
+    "Most Read Document":"Armsdealing 5",
+    "# Highlighted":0,
+    "Highlighted Words":[
+
+    ],
+    "HighlightingDuration":0.0,
+    "# Searched":0,
+    "Searched Words":{
+
+    },
+    "SearchDuration":0.0
+  },
+  {
+    "SegmentRangeID":4,
+    "SegmentID":16,
+    "Start":3093.4,
+    "End":3273.5,
+    "# Interactions":20,
+    "# Documents Opened":11,
+    "Opened Documents":[
+      "Armsdealing 25",
+      "Armsdealing 29",
+      "Armsdealing 51",
+      "Armsdealing 53",
+      "Armsdealing 54",
+      "Armsdealing 87",
+      "Armsdealing 88",
+      "Armsdealing 89",
+      "Armsdealing 90"
+    ],
+    "OpenDuration":197.9,
+    "# Documents Read":7,
+    "Read Documents":[
+      "Armsdealing 25",
+      "Armsdealing 54"
+    ],
+    "ReadDuration":23.9,
+    "# Documents Dragged":1,
+    "Dragged Documents":[
+      "Armsdealing 25"
+    ],
+    "DraggingDuration":1.0,
+    "Most Read Document":"Armsdealing 25",
+    "# Highlighted":0,
+    "Highlighted Words":[
+
+    ],
+    "HighlightingDuration":0.0,
+    "# Searched":1,
+    "Searched Words":{
+      "Burj":1
+    },
+    "SearchDuration":1.0
+  },
+  {
+    "SegmentRangeID":4,
+    "SegmentID":17,
+    "Start":3273.5,
+    "End":3462.4,
+    "# Interactions":19,
+    "# Documents Opened":7,
+    "Opened Documents":[
+      "Armsdealing 56",
+      "Armsdealing 77",
+      "Armsdealing 8",
+      "Armsdealing 91",
+      "Armsdealing 92",
+      "Armsdealing 93",
+      "Armsdealing 94"
+    ],
+    "OpenDuration":172.2,
+    "# Documents Read":9,
+    "Read Documents":[
+      "Armsdealing 29",
+      "Armsdealing 5",
+      "Armsdealing 8"
+    ],
+    "ReadDuration":41.7,
+    "# Documents Dragged":2,
+    "Dragged Documents":[
+      "Armsdealing 29",
+      "Armsdealing 93"
+    ],
+    "DraggingDuration":7.4,
+    "Most Read Document":"Armsdealing 29",
+    "# Highlighted":0,
+    "Highlighted Words":[
+
+    ],
+    "HighlightingDuration":0.0,
+    "# Searched":1,
+    "Searched Words":{
+      "salah ahmed":1
+    },
+    "SearchDuration":1.0
+  },
+  {
+    "SegmentRangeID":4,
+    "SegmentID":18,
+    "Start":3462.4,
+    "End":3489.3,
+    "# Interactions":3,
+    "# Documents Opened":1,
+    "Opened Documents":[
+      "Armsdealing 29"
+    ],
+    "OpenDuration":24.5,
+    "# Documents Read":0,
+    "Read Documents":[
+
+    ],
+    "ReadDuration":0.0,
+    "# Documents Dragged":0,
+    "Dragged Documents":[
+
+    ],
+    "DraggingDuration":0.0,
+    "Most Read Document":"NA",
+    "# Highlighted":0,
+    "Highlighted Words":[
+
+    ],
+    "HighlightingDuration":0.0,
+    "# Searched":2,
+    "Searched Words":{
+      " ahmed":1,
+      "ahmed":1
+    },
+    "SearchDuration":2.0
+  },
+  {
+    "SegmentRangeID":4,
+    "SegmentID":19,
+    "Start":3489.3,
+    "End":4239.7,
+    "# Interactions":59,
+    "# Documents Opened":18,
+    "Opened Documents":[
+      "Armsdealing 10",
+      "Armsdealing 25",
+      "Armsdealing 26",
+      "Armsdealing 29",
+      "Armsdealing 38",
+      "Armsdealing 39",
+      "Armsdealing 40",
+      "Armsdealing 41",
+      "Armsdealing 42",
+      "Armsdealing 58",
+      "Armsdealing 59",
+      "Armsdealing 76",
+      "Armsdealing 79",
+      "Armsdealing 83",
+      "Armsdealing 88",
+      "Armsdealing 92"
+    ],
+    "OpenDuration":331.9,
+    "# Documents Read":20,
+    "Read Documents":[
+      "Armsdealing 25",
+      "Armsdealing 26",
+      "Armsdealing 41",
+      "Armsdealing 42",
+      "Armsdealing 5",
+      "Armsdealing 59"
+    ],
+    "ReadDuration":46.7,
+    "# Documents Dragged":14,
+    "Dragged Documents":[
+      "Armsdealing 10",
+      "Armsdealing 17",
+      "Armsdealing 25",
+      "Armsdealing 26",
+      "Armsdealing 3",
+      "Armsdealing 58",
+      "Armsdealing 60",
+      "Armsdealing 61",
+      "Armsdealing 72",
+      "Armsdealing 82"
+    ],
+    "DraggingDuration":24.9,
+    "Most Read Document":"Armsdealing 25",
+    "# Highlighted":1,
+    "Highlighted Words":[
+      "April 19th reunion in Dubai\n"
+    ],
+    "HighlightingDuration":1.0,
+    "# Searched":6,
+    "Searched Words":{
+      "nicolai":2,
+      "nikolai":1,
+      "the week of":1,
+      "baltasar":1,
+      "sick":1
+    },
+    "SearchDuration":6.0
+  },
+  {
+    "SegmentRangeID":4,
+    "SegmentID":20,
+    "Start":4239.7,
+    "End":4594.8,
+    "# Interactions":36,
+    "# Documents Opened":7,
+    "Opened Documents":[
+      "Armsdealing 62",
+      "Armsdealing 70",
+      "Armsdealing 81",
+      "Armsdealing 90",
+      "Armsdealing 95"
+    ],
+    "OpenDuration":227.1,
+    "# Documents Read":10,
+    "Read Documents":[
+      "Armsdealing 81",
+      "Armsdealing 95"
+    ],
+    "ReadDuration":79.1,
+    "# Documents Dragged":16,
+    "Dragged Documents":[
+      "Armsdealing 17",
+      "Armsdealing 25",
+      "Armsdealing 59",
+      "Armsdealing 62",
+      "Armsdealing 63",
+      "Armsdealing 64",
+      "Armsdealing 86",
+      "Armsdealing 95"
+    ],
+    "DraggingDuration":31.9,
+    "Most Read Document":"Armsdealing 95",
+    "# Highlighted":1,
+    "Highlighted Words":[
+      " I know with your committment to our mutual business goals you will be able to persevere through sickness for our successful meeting."
+    ],
+    "HighlightingDuration":1.0,
+    "# Searched":2,
+    "Searched Words":{
+      "infection":1,
+      "columbia":1
+    },
+    "SearchDuration":2.0
+  },
+  {
+    "SegmentRangeID":5,
+    "SegmentID":21,
+    "Start":4594.8,
+    "End":4649.3,
+    "# Interactions":2,
+    "# Documents Opened":2,
+    "Opened Documents":[
+      "Armsdealing 87",
+      "Armsdealing 93"
+    ],
+    "OpenDuration":11.7,
+    "# Documents Read":0,
+    "Read Documents":[
+
+    ],
+    "ReadDuration":0.0,
+    "# Documents Dragged":0,
+    "Dragged Documents":[
+
+    ],
+    "DraggingDuration":0.0,
+    "Most Read Document":"NA",
+    "# Highlighted":0,
+    "Highlighted Words":[
+
+    ],
+    "HighlightingDuration":0.0,
+    "# Searched":0,
+    "Searched Words":{
+
+    },
+    "SearchDuration":0.0
+  },
+  {
+    "SegmentRangeID":5,
+    "SegmentID":22,
+    "Start":4649.3,
+    "End":4693.2,
+    "# Interactions":1,
+    "# Documents Opened":1,
+    "Opened Documents":[
+      "Armsdealing 6"
+    ],
+    "OpenDuration":3.2,
+    "# Documents Read":0,
+    "Read Documents":[
+
+    ],
+    "ReadDuration":0.0,
+    "# Documents Dragged":0,
+    "Dragged Documents":[
+
+    ],
+    "DraggingDuration":0.0,
+    "Most Read Document":"NA",
+    "# Highlighted":0,
+    "Highlighted Words":[
+
+    ],
+    "HighlightingDuration":0.0,
+    "# Searched":0,
+    "Searched Words":{
+
+    },
+    "SearchDuration":0.0
+  },
+  {
+    "SegmentRangeID":5,
+    "SegmentID":23,
+    "Start":4693.2,
+    "End":4753.6,
+    "# Interactions":2,
+    "# Documents Opened":2,
+    "Opened Documents":[
+      "Armsdealing 2",
+      "Armsdealing 3"
+    ],
+    "OpenDuration":53.4,
+    "# Documents Read":0,
+    "Read Documents":[
+
+    ],
+    "ReadDuration":0.0,
+    "# Documents Dragged":0,
+    "Dragged Documents":[
+
+    ],
+    "DraggingDuration":0.0,
+    "Most Read Document":"NA",
+    "# Highlighted":0,
+    "Highlighted Words":[
+
+    ],
+    "HighlightingDuration":0.0,
+    "# Searched":0,
+    "Searched Words":{
+
+    },
+    "SearchDuration":0.0
+  }
+]
